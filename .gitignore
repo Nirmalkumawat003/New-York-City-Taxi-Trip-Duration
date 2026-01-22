@@ -1,0 +1,6 @@
+train/
+test/
+sample_submission/
+*.zip
+__pycache__/
+*.pyc
